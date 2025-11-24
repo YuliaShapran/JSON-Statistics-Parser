@@ -1,0 +1,7 @@
+org\example\json_stat_gen\dto\ItemDto.class
+org\example\json_stat_gen\App.class
+org\example\json_stat_gen\service\AggregationService.class
+org\example\json_stat_gen\service\XmlService.class
+org\example\json_stat_gen\service\FileScannerService.class
+org\example\json_stat_gen\dto\StatisticsNodeDto.class
+org\example\json_stat_gen\service\JsonParserService.class

@@ -1,0 +1,5 @@
+org\example\json_stat_gen\service\AggregationServiceTest.class
+org\example\json_stat_gen\service\XmlServiceTest.class
+org\example\json_stat_gen\service\FileScannerServiceTest.class
+org\example\json_stat_gen\service\JsonParserServiceTest.class
+org\example\json_stat_gen\AppTest.class
