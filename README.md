@@ -1,4 +1,4 @@
-# JsonStatGen
+# JSON-Statistics-Parser
 
 **JsonStatGen** is a Java-based tool that scans directories, parses JSON files, aggregates statistics by a selected attribute, and exports the results to an XML file.
 The project is optimized for processing many large files using asynchronous operations via `CompletableFuture`.
@@ -133,4 +133,5 @@ Run tests:
 ```bash
 mvn test
 ```
+
 
